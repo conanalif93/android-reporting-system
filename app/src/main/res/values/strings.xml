@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="title_activity_add_data_success">AddDataSuccess</string>
+
+    <string name="zon_prompt">Pilih Zon</string>
+
+    <string-array name="zon_arrays">
+        <item tag="101">Utara</item>
+        <item tag="102">Tengah</item>
+        <item tag="103">Selatan</item>
+    </string-array>
+
+    <string name="kesalahan_prompt">Pilih Jenis Kesalahan</string>
+
+    <string-array name="kesalahan_arrays">
+        <item tag="201">Perjudian</item>
+        <item tag="202">Hotel/Kelab Malam/Rumah Pelacuran</item>
+    </string-array>
+
+    <string name="lesen_prompt">Ya/Tidak</string>
+
+    <string-array name="lesen_arrays">
+        <item tag="301">Ya</item>
+        <item tag="302">Tidak</item>
+    </string-array>
+</resources>
